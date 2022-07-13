@@ -1,0 +1,44 @@
+.navli
+{
+    color: rgba(255, 0, 0, 0.884) !important;
+  
+}
+.productContainer {
+    display: flex;
+    padding: 20px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+  
+  .products {
+    width: 25%;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+  }
+  
+  .productDesc {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+  }
+  
+  .add {
+    padding: 5px;
+  }
+  
+  .remove {
+    background-color: grey;
+    color: white;
+  }
+
+ .btn {
+   border: 2px solid black;
+   margin-right: 20px;
+ }
+
+ .navlii {
+   color: #ed42dc;
+ }
